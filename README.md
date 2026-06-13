@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Suresh Dhole
 
-<!--
-**codewithsuresh12/codewithsuresh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Passionate about Programming, Data Science, and Full Stack Development. Currently learning C, Python, Data Structures, DBMS, and Software Engineering. I enjoy building projects, solving coding problems, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc Computer Science Student
+- 💻 Learning C, Python, Data Structures & DBMS
+- 📊 Future Data Scientist
+- 🌐 Interested in Full Stack Development
+- 🎯 Goal: Become a Software Engineer & Data Scientist
+
+## 🛠 Skills
+- C Programming
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## 📚 Currently Learning
+- Data Structures
+- Database Management System
+- Software Engineering
+- Data Science
+- Full Stack Development
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+
+⭐ Thanks for visiting my profile!
