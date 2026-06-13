@@ -25,6 +25,6 @@ Passionate about Programming, Data Science, and Full Stack Development. Currentl
 - Full Stack Development
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/codewithsuresh12
 
 ⭐ Thanks for visiting my profile!
