@@ -60,7 +60,7 @@
 ## ✨ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithSuresh12&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithSuresh12" />
 </div>
 
 <br>
