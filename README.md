@@ -39,7 +39,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=git,github,c,c++,python,html,css,js,nodeJs,React,Express,MongoDb,Sercletjsp,spring framework,JQuery,Bootstrap,AJAX,SQL,PHP" />
 </div>
 
 <br>
