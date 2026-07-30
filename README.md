@@ -8,6 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
+<img src'https://githun-readme-stats.vercel.app/api?username=codewithsuresh12&show_icon=true&theme=tokyonight"/>
 
 ## 🧑‍💻 About Me
 
