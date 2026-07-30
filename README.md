@@ -52,26 +52,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithsuresh12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=codewithsuresh12&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
 
-<img height="170" src="https://streak-stats.demolab.com?user=codewithsuresh12&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsuresh12&layout=compact&theme=tokyonight&hide_border=true"/>
+<p>
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsuresh12&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+</p>
 
 </div>
 
-## ✨ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithsuresh12" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithsuresh12&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
