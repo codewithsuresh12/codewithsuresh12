@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing navbar with name + username -->
-<a href="https://github.com/CodeWithSuresh12">
+<a href="https://github.com/codewithsuresh12">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Dhole;@CodeWithSuresh12;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </a>
 
@@ -52,24 +52,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithSuresh12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=codewithsuresh1212&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=CodeWithSuresh12&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=codewithsuresh12&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSuresh12&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsuresh12&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ## ✨ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithSuresh12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithsuresh12" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeWithSuresh12&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=codewithsuresh12&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
